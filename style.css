@@ -137,6 +137,12 @@ footer {
     padding: 0;
 }
 
+#forthimagesection {
+    position: relative;
+    float: left;
+    height: 500px;
+}
+
 .footertext {
     text-align: center;
     font-size: 12px;
